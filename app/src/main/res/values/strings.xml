@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BilliardsAnimation</string>
+    <string name="billiard_table">бильярдный стол</string>
+    <string name="ball">шар</string>
+</resources>
